@@ -22,6 +22,12 @@ sudo apt-get install pulseaudio-utils libnotify-bin
 sudo dnf install pulseaudio-utils libnotify
 ```
 
+## Permisos:
+
+```bash
+chmod +x pulse-audio.mic.sh 
+```
+
 ## Execute:
 
 ```bash
