@@ -1,4 +1,9 @@
-# Instalación de Herramientas Necesarias para el Script en Linux
+# Linux Microphone Toggle
+
+## Descripción
+Este repositorio contiene un script simple para Linux que te permite controlar el estado del micrófono de forma rápida y sencilla. Con el script "linux-microphone-toggle", puedes alternar entre activar y desactivar el micrófono con un solo comando. La herramienta utiliza utilidades de PulseAudio y notify-send para ofrecer una experiencia de usuario fluida. ¡Optimiza tu flujo de trabajo y gestiona eficientemente el estado de tu micrófono en entornos Linux!
+
+## Instalación de Herramientas Necesarias para el Script en Linux
 
 ![Notificaciones](./example.png)
 
